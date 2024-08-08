@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hyginus Chijioke
-- 👀 I’m interested in Learning anything concerning TecH
-- 🌱 I’m currently learning PythoN
-- 💞️ I’m looking to collaborate on any project that can help me achieve my GOALS in Tech Space
+- 👀 I’m an accomplished and results-oriented Data Analyst with a proven track record of delivering impactful insights and driving business growth.
+- 🌱 I’m currently working as a Data Analyst where I leverages my advanced skills in Power Bi, Python and SQL to drive data-driven decision-making and enhance operational efficiency.
+- 💞️ I’m looking to collaborate on any project that can help me thrive more in Tech Space
 - 📫 How to reach me via WhatsApp on +447521146496
 
 <!---
